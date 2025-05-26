@@ -1,1 +1,1 @@
-# JSON-to-CSV-Converter
+A simple JSON to CSV convertor, which can help generate tabular textual data from objects encoded in the popular JSON format. Uses Flex and Bison, for scanning and parsing respectively, along with a C++ program to give CSV files as output.
